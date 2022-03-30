@@ -23,7 +23,9 @@ Resistors: https://amzn.to/3LoW7zJ
 
 HM-10 (the bluetooth module): https://amzn.to/3tPtLbV
 
-Known issues spamming fg / bg commands can screw stuff up and display that as text
+Known issues:
+
+Spamming fg / bg commands can screw stuff up and display that as text
 
 First command should be sent within about 30 seconds of booting up the arduin or stuff may screw up
 
