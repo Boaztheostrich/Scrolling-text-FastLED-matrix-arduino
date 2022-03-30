@@ -1,9 +1,9 @@
 # Scrolling-text-FastLED-matrix-arduino
 Scrolling text on a led matrix using fast led and stripdisplay
 
-Youtube Video:
+Youtube Video: https://youtu.be/I6BIiwNaxiM
 
-TikTok:
+TikTok: (later)
 
 Parts:
 
@@ -22,3 +22,12 @@ Jumper cables: https://amzn.to/3Dmk08g
 Resistors: https://amzn.to/3LoW7zJ
 
 HM-10 (the bluetooth module): https://amzn.to/3tPtLbV
+
+Known issues spamming fg / bg commands can screw stuff up and display that as text
+
+First command should be sent within about 30 seconds of booting up the arduin or stuff may screw up
+
+
+Libraries used:
+
+https://github.com/lyriarte/StripDisplay
