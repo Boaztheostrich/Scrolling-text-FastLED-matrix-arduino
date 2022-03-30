@@ -1,6 +1,10 @@
 # Scrolling-text-FastLED-matrix-arduino
 Scrolling text on a led matrix using fast led and stripdisplay
 
+Youtube Video:
+
+TikTok:
+
 Parts:
 
 Link to led matrix: https://www.amazon.com/gp/product/B07T2D4QGJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
